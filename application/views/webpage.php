@@ -6,6 +6,7 @@
 </head>
 <body>
 	<h3>Welcome to Gonzales Webpage</h3>
+	<p>this is a test</p>
 </body>
 <script type="text/javascript" href="<?php base_url();?>assets/js/testGit.js"></script>
 </html>
